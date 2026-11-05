@@ -5,15 +5,15 @@
 In order to complete this course, you will need to have a [GitHub](https://github.com/home) account. If you don't have one, you can sign up for free. 
 
 > [!IMPORTANT]
-> This courses teaches you how to use GitHub Copilot, which is a paid service for all but minimal usage.
+> This course teaches you how to use GitHub Copilot, which is a paid service for all but minimal usage. This minimal usage is enough to get you through the course, but a plan with a higher quota would be advisable for further use.
 >
-> Imperial ICT provide GitHub Copilot business paid subscriptions to Imperial staff and postgraduate students who are involved in research. If you use GitHub Copilot to assist you with programming tasks, these plans provide a high quota which is suitable for regular use. To get access to this plan you will need to:
+> Imperial ICT provides a generous GitHub Copilot business paid subscriptions to Imperial staff (excluding externally funded staff). This is [not available to postgraduate researchers](https://github.com/orgs/ImperialCollegeLondon/discussions/21) such as PhD students (unless your group pays $19/month). To access this:
 >
 > * Make a [GitHub account](https://github.com/),
 > * Join the [Imperial GitHub organisation](https://imperialcollegelondon.github.io/docs/gain_access) by clicking [here](https://github.com/orgs/ImperialCollegeLondon/sso),
 > * Request a licence by visiting [this repository](https://github.com/ImperialCollegeLondon/github-resources#how-to-request-a-github-copilot-for-business-license) and creating an issue on that repository.
 >
-> If you are not a member of staff or a postgraduate student who conducts research, you should sign up for [GitHub Education](https://github.com/education) which gives you a (less generous) quota for GitHub Copilot.
+> If you are not a member of staff, you should sign up for [GitHub Education](https://github.com/education) which gives you a (less generous) quota for GitHub Copilot.
 >
 > Whichever route is relevant to you, **you should start whichever process is relevant to you at least 10 days before the summer school** as there may be delays in the processes.
 
@@ -29,7 +29,7 @@ This course will take place in an ICT computer room and so laptops are not requi
 
 ## Self-Study
 
-This course can be studied independently at your own pace. Make sure you have completed the pre-course instructions described above. Once your GitHub account is set up and registered with GitHub Education, open a Codespace as described below. You can then work your way through the jupyter notebooks in the the order they are numbered. Make sure to experiment with the tools and complete the exercises to gain experience of using the tools yourself.
+This course can be studied independently at your own pace. Make sure you have completed the pre-course instructions described above. Then open a Codespace as described below. You can then work your way through the jupyter notebooks in the the order they are numbered. Make sure to experiment with the tools and complete the exercises to gain experience of using the tools yourself.
 
 ## Accessing Course Materials
 
